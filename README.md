@@ -1,6 +1,10 @@
 # praticaSQL
-## SELECT * FROM Customers;
-## SELECT CustomerName,City FROM Customers;
+## SELECT 
+SELECT * FROM Customers;
+
+## sgsdgdfsgdsfgsdfg
+SELECT CustomerName,City FROM Customers;
+
 ## SELECT DISTINCT Country FROM Customers;
 ## SELECT * FROM Customers
 WHERE Country='Mexico';
