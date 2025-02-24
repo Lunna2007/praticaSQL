@@ -2,10 +2,11 @@
 ## SELECT 
 SELECT * FROM Customers;
 
-## sgsdgdfsgdsfgsdfg
+## SELECT 
 SELECT CustomerName,City FROM Customers;
 
-## SELECT DISTINCT Country FROM Customers;
+## SELECT DISTNC
+SELECT DISTINCT Country FROM Customers;
 ## SELECT * FROM Customers
 WHERE Country='Mexico';
 ## SELECT * FROM Products
